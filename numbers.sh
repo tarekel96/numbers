@@ -1,4 +1,6 @@
 #!/bin/bash
+# numbers.sh
+# Tarek El-Hajjaoui
 
 echo "Type a positive integer: "
 counter=0
